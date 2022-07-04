@@ -2,13 +2,17 @@
 
 Clone "clone_url" repositories using Github API https://api.github.com/users/nome_usuario/repos
 
-installation
+.installation
 
-#wget https://raw.githubusercontent.com/Rodrigo-Lucenaa/clone_repositorio_Shell/main/clone_repositorio.sh
 
-#chmod +x clone_repositorio.sh
+run commands in terminal
 
-#./clone_repositorio.sh
+1- wget https://raw.githubusercontent.com/Rodrigo-Lucenaa/clone_repositorio_Shell/main/clone_repositorio.sh
+
+2- chmod +x clone_repositorio.sh
+
+3- ./clone_repositorio.sh
+
 
 The repositories-git folder will be created with the user's public repositories
 
