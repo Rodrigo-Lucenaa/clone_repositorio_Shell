@@ -2,7 +2,7 @@
 
 Clone "clone_url" repositories using Github API https://api.github.com/users/nome_usuario/repos
 
-.installation
+#installation
 
 
 run commands in terminal
