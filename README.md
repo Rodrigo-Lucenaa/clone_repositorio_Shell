@@ -14,5 +14,5 @@ Clone "clone_url" repositories using Github API https://api.github.com/users/nom
 3- ./clone_repositorio.sh
 
 
-<h3>The repositories-git folder will be created with the user's public repositories </h3>
+<h3>The repositorios-git folder will be created with the user's public repositories </h3>
 
