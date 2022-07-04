@@ -10,5 +10,5 @@ installation
 
 #./clone_repositorio.sh
 
-
+The repositories-git folder will be created with the user's public repositories
 
