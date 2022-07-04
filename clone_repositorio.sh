@@ -1,7 +1,9 @@
 #!/bin/bash
 
 mkdir repositorios-git
+
 apt install git -y && apt install curl -y
+
 cd repositorios-git
 echo "Digite nome do usuário GitHub"
 read nome
